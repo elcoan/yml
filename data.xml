@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2021-08-29 03:33">
+<yml_catalog date="2021-08-29 03:35">
 	<shop>
 		<categories>
 			<category id="cd0d3705-0072-11ec-84a5-b00cd152b5e1">Зубные щетки</category>
@@ -35,7 +35,7 @@
 				<picture>https://ae01.alicdn.com/kf/HTB1_JqFlnCWBKNjSZFtq6yC3FXaq/-.jpg</picture>
 				<weight>0.5</weight>
 				<lenght>30</lenght>
-				<picture>20</picture>
+				<width>20</width>
 				<height>10</height>
 			</offer>
 			<offer id="00000000195">
@@ -66,7 +66,7 @@
 				<picture>https://ae01.alicdn.com/kf/HTB1_JqFlnCWBKNjSZFtq6yC3FXaq/-.jpg</picture>
 				<weight>0.5</weight>
 				<lenght>30</lenght>
-				<picture>20</picture>
+				<width>20</width>
 				<height>10</height>
 			</offer>
 			<offer id="00000000196">
@@ -96,7 +96,7 @@
 				<picture>https://ae01.alicdn.com/kf/HTB1_JqFlnCWBKNjSZFtq6yC3FXaq/-.jpg</picture>
 				<weight>0.5</weight>
 				<lenght>30</lenght>
-				<picture>20</picture>
+				<width>20</width>
 				<height>10</height>
 			</offer>
 			<offer id="00000000474">
@@ -110,7 +110,7 @@
 				<picture>https://ae01.alicdn.com/kf/HTB1_JqFlnCWBKNjSZFtq6yC3FXaq/-.jpg</picture>
 				<weight>0.5</weight>
 				<lenght>30</lenght>
-				<picture>20</picture>
+				<width>20</width>
 				<height>10</height>
 			</offer>
 			<offer id="00000000475">
@@ -124,7 +124,7 @@
 				<picture>https://ae01.alicdn.com/kf/HTB1_JqFlnCWBKNjSZFtq6yC3FXaq/-.jpg</picture>
 				<weight>0.5</weight>
 				<lenght>30</lenght>
-				<picture>20</picture>
+				<width>20</width>
 				<height>10</height>
 			</offer>
 		</offers>
